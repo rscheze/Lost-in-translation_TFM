@@ -22,7 +22,9 @@ o	lime
 Files used in the Project
 
 o	Raw_data_TFM.CSV (unzip file required)
+
 o	Spain_provincias (used to map with geopandas. Unzip file required).
+
 o	Pobmun19.csv (included as part of the previous work with SAS to add number of population by province. Information included from INE website). Information already included in the Raw_data_TFM file.
 
 
