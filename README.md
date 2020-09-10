@@ -1,6 +1,8 @@
 # Lost-in-translation_TFM
 Understand Black-box Predictions
 
+Final work detail:  https://rscheze.wixsite.com/rse-tfm2020
+
 •	Sales representatives require relevant information to address a customer and build rapport.This has a deep impact on customer experience.
 
 •	This work aims to reduce the gap between a model prediction and the information required for Sales representatives to address a customer (Explanation through Explainability(1)).
