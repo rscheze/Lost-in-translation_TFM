@@ -12,11 +12,17 @@ Understand Black-box Predictions
 Requirements 
 
 Running this Project requires Python Notebook and the instalation of the following libraries:
+
 o	collections
+
 o	imblearn
+
 o	folium
+
 o	xgboost  
+
 o	mlens
+
 o	lime
 
 Files used in the Project
