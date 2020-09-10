@@ -1,5 +1,5 @@
 # Lost-in-translation_TFM
-Understand bax box models predictions
+Understand Black-box Predictions
 
 •	Sales representatives require relevant information to address a customer and build rapport.This has a deep impact on customer experience.
 
